@@ -27,7 +27,7 @@ jobs:
    runs-on: ubuntu-latest
    defaults:
     run:
-     shell: Bash
+     shell: bash
      working-directory: ./terraform
 
    steps:
